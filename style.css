@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(178, 216, 235);
+    background-color: rgb(1, 12, 18);
     font-family: cursive;
 }
 .main{
@@ -7,4 +7,8 @@ body{
     display: flex;
     gap: 30px;
     justify-content: center;
+    color: aqua;
+}
+h1{
+    color: aqua;
 }
