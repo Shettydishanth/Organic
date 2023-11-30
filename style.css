@@ -1,6 +1,6 @@
 body{
     background-color: rgb(1, 12, 18);
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 .main{
     list-style-type: none;
@@ -11,4 +11,9 @@ body{
 }
 h1{
     color: aqua;
+}
+p{
+    font-family: cursive;
+    color: aqua;
+    text-align: center; 
 }
